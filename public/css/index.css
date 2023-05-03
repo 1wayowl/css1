@@ -144,3 +144,8 @@ p.green {
   content: ' ➤ ';
   color: green;
 }
+
+.lesson-three-task-thirteen li::after {
+  content: ' ➤ ';
+  color: green;
+}
